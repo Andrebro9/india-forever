@@ -1,0 +1,14 @@
+.header .logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 15vh;
+}
+
+.header .logo .container {
+    height: 125px;
+    width: 200px;
+    background: pink;
+    border-radius: 15px;
+}
+
+
